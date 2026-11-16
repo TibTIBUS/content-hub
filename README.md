@@ -1,6 +1,6 @@
-# Localia Content Hub
+# Thibaut Marie Content Hub
 
-Dépôt éditorial automatisé pour Localia.
+Dépôt éditorial automatisé pour Thibaut Marie.
 
 Objectif :
 - ChatGPT crée les contenus Facebook et Instagram.
@@ -38,7 +38,7 @@ Un contenu publiable doit avoir :
 
 ## Important sur les visuels
 
-Les visuels doivent rester cohérents avec les visuels déjà publiés sur la page Facebook Localia.
+Les visuels doivent rester cohérents avec les visuels déjà publiés sur la page Facebook Thibaut Marie.
 
 Le lien de référence est :
 https://www.facebook.com/profile.php?id=61588767745281&sk=photos
@@ -46,4 +46,4 @@ https://www.facebook.com/profile.php?id=61588767745281&sk=photos
 Si l’accès direct à la galerie Facebook est bloqué, ne pas improviser :
 - utiliser uniquement les règles validées dans `config/brand-guardrails.md` ;
 - produire un brief visuel ou un SVG source sobre ;
-- attendre validation ou fournir un visuel conforme aux codes Localia déjà connus.
+- attendre validation ou fournir un visuel conforme aux codes Thibaut Marie déjà connus.
